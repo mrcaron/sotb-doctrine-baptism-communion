@@ -11,7 +11,7 @@ theology.
 
 ------------------------------------------------------------------------
 
-# Biblical Theology and New Testament Context
+# Biblical Theology and New Testament Context for Baptism
 
 ## The One True Gospel Requires Resurrection
 
@@ -36,8 +36,6 @@ John the Baptist. The article situates Christian baptism within Second
 Temple Jewish purification traditions.
 
 ------------------------------------------------------------------------
-
-# BibleProject Resources
 
 ## The Exodus Way (Theme Overview)
 
@@ -89,7 +87,7 @@ theological grounding for baptism imagery in the New Testament.
 
 ------------------------------------------------------------------------
 
-# Jewish Ritual Background
+# Jewish Ritual Background for Baptism
 
 ## Mishnah Mikvaot 1:1 --- Laws of Ritual Immersion
 
@@ -114,7 +112,7 @@ covenant identity.
 
 ------------------------------------------------------------------------
 
-# Ancient Historical Sources
+# Ancient Historical Sources on Baptism
 
 ## Josephus on John the Baptist
 
@@ -127,7 +125,7 @@ of John's baptism in the first century.
 
 ------------------------------------------------------------------------
 
-# Academic Studies
+# Academic Studies on Baptism
 
 ## Cosmic Mountain and Temple Imagery in Genesis and Exodus
 
@@ -140,7 +138,7 @@ behind water, creation, and covenant renewal in biblical theology.
 
 ------------------------------------------------------------------------
 
-# Books
+# Books on Baptism and Communion
 
 ## Baptism: Three Views
 
@@ -162,10 +160,87 @@ This theological work explores how early Christian worship
 practices---including baptism and the Lord's Supper---developed within
 Jewish covenant traditions and the life of the early church.
 
+# Eucharist, Koinonia, and Early Christian Practice
+
+### Reading Syllabus / Resource List
+
+This syllabus gathers primary sources and influential texts referenced
+in the discussion of: - Eucharistic theology in the Pauline epistles -
+The meaning of *koinonia* - Early church leadership structures -
+Connections to the Tree of Life tradition - Witness from the Desert
+Fathers and Mothers
+
 ------------------------------------------------------------------------
 
-# Accessing This Resource List
+## Early Christian Doctrines
 
-If this document is hosted online (for example via **GitHub Pages**), a
-QR code can link directly to the digital version so students can easily
-access the resources on their devices.
+**J. N. D. Kelly.** HarperOne, 1978.
+
+A classic historical survey of doctrinal development in the early
+church. Kelly's work is particularly useful for tracing how early
+Christians understood sacraments such as baptism and the Eucharist.
+
+------------------------------------------------------------------------
+
+## The Eucharist: Sacrament of the Kingdom
+
+**Alexander Schmemann.** St Vladimir's Seminary Press, 1987.
+
+Schmemann presents a deeply theological vision of the Eucharist as the
+central act of Christian worship. The book emphasizes the cosmic and
+eschatological meaning of communion within Orthodox theology.
+
+------------------------------------------------------------------------
+
+## The Mystery of Christ: Life in Death
+
+**John Behr.** St Vladimir's Seminary Press, 2006.
+
+Behr explores how early Christian theology interpreted Christ's death
+and resurrection. His work helps illuminate the theological foundations
+behind baptismal participation in Christ's death and life.
+
+------------------------------------------------------------------------
+
+## Lord Jesus Christ: Devotion to Jesus in Earliest Christianity
+
+**Larry W. Hurtado.** Eerdmans, 2003.
+
+Hurtado examines how early Christians came to worship Jesus as Lord.
+This study provides context for early Christian liturgy, communal
+worship, and sacramental practice.
+
+------------------------------------------------------------------------
+
+## The New Testament and the People of God
+
+**N. T. Wright.** Fortress Press, 1992.
+
+Wright situates the New Testament within the story of Israel and Second
+Temple Judaism. His work is foundational for understanding how themes
+like covenant, Exodus, and new creation inform Christian baptism.
+
+------------------------------------------------------------------------
+
+## Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals
+
+**Andrew McGowan.** Oxford University Press, 1999.
+
+McGowan investigates how early Christian communities practiced communal
+meals and Eucharistic celebrations. The book sheds light on how the
+Lord's Supper developed within early Christian worship and ascetic
+traditions.
+
+------------------------------------------------------------------------
+
+## Apostolic and Early Church Writings on Communion
+
+-   **Didache (c. AD 70--110)** --- Early Eucharistic prayers and church
+    order.
+-   **Ignatius of Antioch --- Letters (c. AD 110)**
+    -   Especially *Letter to the Smyrnaeans*
+    -   Emphasis on Eucharist under episcopal authority.
+-   **Justin Martyr --- First Apology (c. AD 155)**
+    -   Early explanation of Christian worship and the Eucharist.
+-   **Irenaeus --- Against Heresies (late 2nd century)**
+    -   Eucharist and participation in resurrection life.
