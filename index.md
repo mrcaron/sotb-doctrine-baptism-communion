@@ -16,6 +16,12 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 
 ---
 
+## Online Access / QR Code
+
+![QR code for the hosted resource page](https://quickchart.io/qr?text=https%3A%2F%2Fmrcaron.github.io%2Fbaptism-communion-resources%2F&size=220)
+
+---
+
 ## Table of Contents
 
 - [Suggested Reading Path](#suggested-reading-path)
@@ -44,12 +50,6 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 8. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
 9. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
 10. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
-
----
-
-## Online Access / QR Code
-
-![QR code for the hosted resource page](https://quickchart.io/qr?text=https%3A%2F%2Fmrcaron.github.io%2Fbaptism-communion-resources%2F&size=220)
 
 ---
 
