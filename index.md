@@ -30,14 +30,14 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 ## Suggested Reading Path
 
 ### Start here
-1. [BibleProject — *The Exodus Way* Guide](https://bibleproject.com/guides/the-exodus-way/)
-2. [BibleProject Podcast — *N.T. Wright Interview: Baptism and the Exodus Story*](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/)
+1. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
+2. [BibleProject — *The Exodus Way* Guide](https://bibleproject.com/guides/the-exodus-way/)
+3. [BibleProject Podcast — *N.T. Wright Interview: Baptism and the Exodus Story*](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/)
 
 ### Historical background
-3. [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
-4. [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
-5. [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
-6. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
+4. [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
+5. [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
+6. [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
 
 ### Deeper theological study
 7. [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist)
