@@ -37,13 +37,13 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 3. [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
 4. [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
 5. [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
+6. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
 
 ### Deeper theological study
-6. [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist)
-7. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
-8. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
-9. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
-10. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
+7. [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist)
+8. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
+9. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
+10. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
 
 ---
 
