@@ -157,7 +157,7 @@ Hicks argues that baptism, the gathered assembly, and the Lord’s Supper are no
 ---
 
 ### Early Christian Doctrines  
-![Cover: Early Christian Doctrines](https://covers.openlibrary.org/b/isbn/0713627239-M.jpg)
+![Cover: Early Christian Doctrines](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388365041i/1206742.jpg)
 
 **Kelly, J. N. D.** *Early Christian Doctrines*. 5th rev. ed. HarperOne, 1978.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
@@ -187,7 +187,7 @@ Schmemann presents the Eucharist not as a fussy mechanism to be dissected but as
 ---
 
 ### The Mystery of Christ: Life in Death  
-![Cover: The Mystery of Christ](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388365041i/1206742.jpg)
+![Cover: The Mystery of Christ](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1331506334i/1496390.jpg)
 
 **Behr, John.** *The Mystery of Christ: Life in Death*. St Vladimir’s Seminary Press, 2006.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1496390.The_Mystery_of_Christ)
