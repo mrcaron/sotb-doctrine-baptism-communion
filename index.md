@@ -146,7 +146,7 @@ This volume places three major Christian understandings of baptism in direct con
 ---
 
 ### Transforming Encounters: Baptism, Assembly, and the Lord’s Supper  
-![Cover: Transforming Encounters](https://covers.openlibrary.org/b/isbn/9798985474343-M.jpg)
+![Cover: Transforming Encounters](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719705822i/199537199.jpg)
 
 **Hicks, John Mark.** *Transforming Encounters: Baptism, Assembly, and the Lord’s Supper*. Regnum Media / Center for Christian Studies, 2023.  
 **Buy / preview:** [Amazon](https://a.co/d/057s69IQ)  
@@ -167,7 +167,7 @@ Kelly remains one of the standard guides to doctrinal development in the early c
 ---
 
 ### Worship in the Early Church  
-![Cover: Worship in the Early Church](https://covers.openlibrary.org/b/isbn/9781646982653-M.jpg)
+![Cover: Worship in the Early Church](https://m.media-amazon.com/images/I/4150oky--EL._SY445_SX342_FMwebp_.jpg)
 
 **Gonzalez, Justo L., and Catherine Gunsalus Gonzalez.** *Worship in the Early Church*. Westminster John Knox Press, 2022.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
@@ -187,7 +187,7 @@ Schmemann presents the Eucharist not as a fussy mechanism to be dissected but as
 ---
 
 ### The Mystery of Christ: Life in Death  
-![Cover: The Mystery of Christ](https://covers.openlibrary.org/b/isbn/9780881413069-M.jpg)
+![Cover: The Mystery of Christ](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388365041i/1206742.jpg)
 
 **Behr, John.** *The Mystery of Christ: Life in Death*. St Vladimir’s Seminary Press, 2006.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1496390.The_Mystery_of_Christ)
