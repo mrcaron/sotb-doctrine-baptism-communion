@@ -43,6 +43,7 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 7. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
 8. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
 9. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
+10. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
 
 ---
 
@@ -169,6 +170,16 @@ Hicks argues that baptism, the gathered assembly, and the Lord’s Supper are no
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
 
 Kelly remains one of the standard guides to doctrinal development in the early church. He is valuable here because he helps students trace how early Christians came to speak about baptism, Eucharist, Christology, and the church in language that grew out of Scripture but was sharpened in controversy and catechesis.
+
+---
+
+### Worship in the Early Church  
+![Cover: Worship in the Early Church](https://covers.openlibrary.org/b/isbn/9781646982653-M.jpg)
+
+**Gonzalez, Justo L., and Catherine Gunsalus Gonzalez.** *Worship in the Early Church*. Westminster John Knox Press, 2022.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
+
+Gonzalez traces how preaching, baptism, and Eucharist developed across the first five centuries of Christian history. It is especially relevant here because it connects sacramental practice to the church's formation, catechesis, and worshiping life in the patristic period.
 
 ---
 
