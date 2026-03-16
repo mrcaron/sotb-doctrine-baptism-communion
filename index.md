@@ -1,246 +1,221 @@
-# Baptism and Communion
+---
+title: "Baptism and Communion: Selected Resources for Study"
+---
 
-## Study Resources
+<!--
+Replace YOUR-USERNAME in the QR code URL below before publishing.
+If you host this page at a different path, update the QR code image URL too.
+-->
 
-This resource list gathers biblical, historical, and theological
-materials exploring the origins and meaning of **baptism and the Lord's
-Supper**.\
-Many of these resources highlight connections between Jewish ritual
-practices, the Exodus narrative, and early Christian sacramental
-theology.
+# Baptism and Communion  
+## Selected Resources for Study
 
-------------------------------------------------------------------------
+> A curated bibliography for class use, with clickable links for digital reading and a print-friendly structure for handouts.
 
-# Biblical Theology and New Testament Context for Baptism
+This guide gathers biblical, historical, Jewish-background, and theological resources related to **baptism** and **the Lord’s Supper / Eucharist**. The selections are arranged to help students move from broad biblical framing, to Second Temple Jewish context, to early Christian theology and historical development.
 
-## The One True Gospel Requires Resurrection
+---
 
-**Nijay K. Gupta.** 2024.\
-https://nijaykgupta.substack.com/p/the-one-true-gospel-requires-resurrection
+## Table of Contents
 
-Gupta explains how resurrection stands at the center of the gospel
-proclamation in early Christianity. This framework helps illuminate why
-baptism is portrayed in the New Testament as participation in Christ's
-death and new life.
+- [Suggested Reading Path](#suggested-reading-path)
+- [Online Access / QR Code](#online-access--qr-code)
+- [Articles and Primary Sources](#articles-and-primary-sources)
+- [BibleProject Episodes and Transcripts](#bibleproject-episodes-and-transcripts)
+- [Books](#books)
+- [Teaching Notes](#teaching-notes)
 
-------------------------------------------------------------------------
+---
 
-## Jesus, John the Baptist, and the Dead Sea Scrolls
+## Suggested Reading Path
 
-**Michael F. Bird.** 2024.\
-https://michaelfbird.substack.com/p/jesus-john-the-baptist-and-the-dead
+### Start here
+1. [BibleProject — *The Exodus Way* Guide](https://bibleproject.com/guides/the-exodus-way/)
+2. [BibleProject Podcast — *N.T. Wright Interview: Baptism and the Exodus Story*](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/)
 
-Bird explores how Jewish sects such as the Qumran community practiced
-ritual washings and how those practices shed light on the ministry of
-John the Baptist. The article situates Christian baptism within Second
-Temple Jewish purification traditions.
+### Historical background
+3. [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
+4. [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
+5. [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
 
-------------------------------------------------------------------------
+### Deeper theological study
+6. [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist)
+7. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
+8. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
+9. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
 
-## The Exodus Way (Theme Overview)
+---
 
-**BibleProject.**\
-Guide: https://bibleproject.com/guides/the-exodus-way/
+## Online Access / QR Code
 
-This overview introduces the biblical theme of **Exodus as a recurring
-narrative pattern**: deliverance, passage through water, wilderness
-testing, and entry into covenant life. The pattern helps explain how the
-New Testament interprets baptism as a new Exodus.
+![QR code for the hosted resource page](https://quickchart.io/qr?text=https%3A%2F%2Fmrcaron.github.io%2Fbaptism-communion-resources%2F&size=220)
 
-------------------------------------------------------------------------
+---
 
-## Baptism and the Exodus Story --- Interview with N. T. Wright
+## Articles and Primary Sources
 
-**BibleProject Podcast**\
-Podcast:
-https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/
+### The One True Gospel Requires Resurrection  
+**Gupta, Nijay K.** “The One True Gospel Requires Resurrection.” *Substack*, 2024.  
+**Link:** [Read online](https://nijaykgupta.substack.com/p/the-one-true-gospel-requires-resurrection)
 
-In this conversation, Wright discusses how early Christians understood
-baptism through Israel's crossing of the sea. Baptism becomes a symbol
-of liberation and entry into the Messiah's covenant people.
+Gupta argues that resurrection is not a decorative add-on to the gospel but part of its core announcement. That matters for baptism because New Testament baptism is repeatedly tied to dying and rising with Christ, not merely to moral reform.
 
-------------------------------------------------------------------------
+---
 
-## The Exodus Way --- Episode 8 (Podcast Transcript)
+### Jesus, John the Baptist, and the Dead Sea Scrolls  
+**Bird, Michael F.** “Jesus, John the Baptist, and the Dead Sea Scrolls.” *Substack*, 2024.  
+**Link:** [Read online](https://michaelfbird.substack.com/p/jesus-john-the-baptist-and-the-dead)
 
-**BibleProject Podcast**
+Bird places John the Baptist within the world of Second Temple Judaism and compares his ministry with other Jewish purification movements. The piece is especially useful for asking what, exactly, was new about John’s baptism and what was inherited from Jewish ritual life.
 
-Transcript:\
-https://s3-us-west-2.amazonaws.com/tbp-web/media/The%20Wilderness%20E8%20Final%20Transcript.pdf
+---
 
-This episode explores how the Gospel writers frame Jesus'
-life---including his baptism and wilderness testing---as a retelling of
-Israel's Exodus story.
+### Mishnah *Mikvaot* 1:1  
+**Mishnah.** *Mikvaot* 1:1. Compiled c. 200 CE.  
+**Link:** [Read on Sefaria](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
 
-------------------------------------------------------------------------
+This tractate gives legal material on ritual immersion and purity. It helps students see that water rites already had a thick symbolic and communal meaning in Judaism before Christian baptism appears on the scene.
 
-## The Exodus Way --- Episode 12 (Podcast Transcript)
+---
 
-**BibleProject Podcast**
+### Josephus on John the Baptist  
+**Josephus, Flavius.** *Antiquities of the Jews* 18.116–119. c. 93–94 CE.  
+**Link:** [Read on Lexundria](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
 
-Transcript:\
-https://d1bsmz3sdihplr.cloudfront.net/media/The%20Exodus%20Way%20E12_Final%20%20Transcript.pdf
+Josephus provides a non-Christian witness to John the Baptist and his practice of baptism. His account is valuable because it confirms John’s historical importance and highlights repentance and moral transformation as central themes.
 
-This episode traces how the Exodus pattern continues throughout the
-Bible and into the early Christian movement. The discussion provides
-theological grounding for baptism imagery in the New Testament.
+---
 
-------------------------------------------------------------------------
+### On the Origins of *Tevilah* (Ritual Immersion)  
+**TheTorah.com.** “On the Origins of Tevilah: Ritual Immersion.”  
+**Link:** [Read online](https://www.thetorah.com/article/on-the-origins-of-tevilah-ritual-immersion)
 
-# Jewish Ritual Background for Baptism
+This article traces the development of immersion practices in Jewish tradition and explores how ritual purity language evolved. It gives students a more nuanced background than the lazy little slogan “baptism just came from the mikveh,” which is usually too tidy by half.
 
-## Mishnah Mikvaot 1:1 --- Laws of Ritual Immersion
+---
 
-**Mishnah (compiled c. 200 CE)**\
-https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi
+### John’s Baptism as a Symbolic Enactment of the Return from Exile  
+**White, Joel R.** “John’s Baptism as a Symbolic Enactment of the Return from Exile.” *Tyndale Bulletin* 73 (2022): 201–220.  
+**Link:** [Read PDF](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
 
-This tractate describes Jewish legal standards for the **mikveh**, the
-ritual immersion bath used for purification. Understanding mikveh
-practice provides important context for interpreting John's baptism and
-early Christian baptism.
+White argues that John’s baptism symbolized Israel’s long-awaited return from exile and may even have involved a Jordan-crossing pattern rather than mere immersion alone. This is highly relevant for connecting baptism to Exodus, land entry, repentance, and new-covenant restoration.
 
-------------------------------------------------------------------------
+---
 
-## On the Origins of Tevilah (Ritual Immersion)
+## BibleProject Episodes and Transcripts
 
-**TheTorah.com**\
-https://www.thetorah.com/article/on-the-origins-of-tevilah-ritual-immersion
+### The Exodus Way (Series Guide)  
+**BibleProject.** *The Exodus Way*.  
+**Link:** [Series guide](https://bibleproject.com/guides/the-exodus-way/)
 
-This article traces the historical development of immersion rituals in
-ancient Judaism and explains their symbolic role in purification and
-covenant identity.
+This guide introduces the Exodus pattern as a recurring script in the Bible: slavery, deliverance, passage through waters, wilderness testing, and arrival in covenant life. It is one of the clearest on-ramps for seeing why baptism is often framed as a new Exodus.
 
-------------------------------------------------------------------------
+---
 
-# Ancient Historical Sources on Baptism
+### N.T. Wright Interview: Baptism and the Exodus Story  
+**BibleProject Podcast.** *The Exodus Way*, Episode 12. April 28, 2025.  
+**Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/)  
+**Transcript PDF:** [Download transcript](https://d1bsmz3sdihplr.cloudfront.net/media/The%20Exodus%20Way%20E12_Final%20%20Transcript.pdf)
 
-## Josephus on John the Baptist
+This episode is directly about baptism, and that makes it something of a rare beast in a good way. Wright connects baptism with ritual washing, Red Sea imagery, Jordan crossing, death and resurrection, and entry into the renewed people of God.
 
-**Flavius Josephus.** *Antiquities of the Jews* 18.116--119 (c. 93 CE).\
-https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst
+---
 
-Josephus provides an important non‑Christian historical reference to
-John the Baptist. His account highlights the repentance-centered nature
-of John's baptism in the first century.
+### Why Does Jesus Get Baptized in the Wilderness?  
+**BibleProject Podcast.** *The Wilderness*, Episode 8. October 2025.  
+**Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/why-does-jesus-get-baptized-in-the-wilderness/)  
+**Transcript PDF:** [Download transcript](https://s3-us-west-2.amazonaws.com/tbp-web/media/The%20Wilderness%20E8%20Final%20Transcript.pdf)
 
-------------------------------------------------------------------------
+This episode explores Jesus’ baptism and wilderness testing as part of a larger biblical wilderness pattern. It is especially helpful for showing how the Gospel writers present Jesus as reliving and redeeming Israel’s story.
 
-# Academic Studies on Baptism
+---
 
-## Cosmic Mountain and Temple Imagery in Genesis and Exodus
+### Jesus as the New Moses—and Much More  
+**BibleProject Podcast.** *The Exodus Way*, Episode 8. March 31, 2025.  
+**Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/jesus-new-mosesand-much-more/)
 
-Scholarly article (PDF)\
-https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf
+This episode tracks Exodus echoes in the Gospel portraits of Jesus—his birth, baptism, wilderness testing, and public ministry. It helps students see that baptism is not an isolated ritual but one piece of a larger new-Exodus theology.
 
-This study explores how temple and creation imagery intersect with the
-Exodus narrative. These patterns illuminate the theological symbolism
-behind water, creation, and covenant renewal in biblical theology.
+---
 
-------------------------------------------------------------------------
+## Books
 
-# Books on Baptism and Communion
+### Baptism: Three Views  
+![Cover: Baptism: Three Views](https://covers.openlibrary.org/b/isbn/0830838562-M.jpg)
 
-## Baptism: Three Views
+**Wright, David F., ed.** *Baptism: Three Views*. IVP Academic, 2009.  
+**Buy / preview:** [Amazon](https://a.co/d/03mAXQ1X)  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/6583281-baptism)
 
-**David F. Wright (editor).** Zondervan, 2009.\
-https://a.co/d/03mAXQ1X
+This volume places three major Christian understandings of baptism in direct conversation: infant baptism, believer’s baptism, and sacramental/evangelical accounts. It is especially useful in a classroom setting because it lets students compare arguments side by side instead of pretending the debate is simple or that everyone else is obviously wrong.
 
-This book presents three major Christian interpretations of
-baptism---paedobaptism, believer's baptism, and sacramental theology. It
-is helpful for understanding how different traditions interpret the
-meaning and practice of baptism.
+---
 
-------------------------------------------------------------------------
+### Transforming Encounters: Baptism, Assembly, and the Lord’s Supper  
+![Cover: Transforming Encounters](https://covers.openlibrary.org/b/isbn/9798985474343-M.jpg)
 
-## Transforming Encounters: Baptism, the Assembly, and the Lord's Supper
+**Hicks, John Mark.** *Transforming Encounters: Baptism, Assembly, and the Lord’s Supper*. Regnum Media / Center for Christian Studies, 2023.  
+**Buy / preview:** [Amazon](https://a.co/d/057s69IQ)  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/199537199-transforming-encounters)
 
-https://a.co/d/057s69IQ
+Hicks argues that baptism, the gathered assembly, and the Lord’s Supper are not bare commands but places where God meets and forms his people. The book is directly relevant because it links sacramental practice to Israel’s story, memory, grace, and communal identity.
 
-This theological work explores how early Christian worship
-practices---including baptism and the Lord's Supper---developed within
-Jewish covenant traditions and the life of the early church.
+---
 
-# Eucharist, Koinonia, and Early Christian Practice
+### Early Christian Doctrines  
+![Cover: Early Christian Doctrines](https://covers.openlibrary.org/b/isbn/0713627239-M.jpg)
 
-### Reading Syllabus / Resource List
+**Kelly, J. N. D.** *Early Christian Doctrines*. 5th rev. ed. HarperOne, 1978.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
 
-This syllabus gathers primary sources and influential texts referenced
-in the discussion of: - Eucharistic theology in the Pauline epistles -
-The meaning of *koinonia* - Early church leadership structures -
-Connections to the Tree of Life tradition - Witness from the Desert
-Fathers and Mothers
+Kelly remains one of the standard guides to doctrinal development in the early church. He is valuable here because he helps students trace how early Christians came to speak about baptism, Eucharist, Christology, and the church in language that grew out of Scripture but was sharpened in controversy and catechesis.
 
-------------------------------------------------------------------------
+---
 
-## Early Christian Doctrines
+### The Eucharist: Sacrament of the Kingdom  
+![Cover: The Eucharist: Sacrament of the Kingdom](https://covers.openlibrary.org/b/isbn/0881410187-M.jpg)
 
-**J. N. D. Kelly.** HarperOne, 1978.
+**Schmemann, Alexander.** *The Eucharist: Sacrament of the Kingdom*. St Vladimir’s Seminary Press, 1987.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/623583.The_Eucharist)
 
-A classic historical survey of doctrinal development in the early
-church. Kelly's work is particularly useful for tracing how early
-Christians understood sacraments such as baptism and the Eucharist.
+Schmemann presents the Eucharist not as a fussy mechanism to be dissected but as the Church’s entrance into the life of the Kingdom. It is a deeply theological and liturgical work that helps students understand communion as thanksgiving, participation, and eschatological foretaste.
 
-------------------------------------------------------------------------
+---
 
-## The Eucharist: Sacrament of the Kingdom
+### The Mystery of Christ: Life in Death  
+![Cover: The Mystery of Christ](https://covers.openlibrary.org/b/isbn/9780881413069-M.jpg)
 
-**Alexander Schmemann.** St Vladimir's Seminary Press, 1987.
+**Behr, John.** *The Mystery of Christ: Life in Death*. St Vladimir’s Seminary Press, 2006.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1496390.The_Mystery_of_Christ)
 
-Schmemann presents a deeply theological vision of the Eucharist as the
-central act of Christian worship. The book emphasizes the cosmic and
-eschatological meaning of communion within Orthodox theology.
+Behr reads the mystery of Christ through crucifixion, resurrection, Scripture, and the worshiping life of the church. The book is useful for baptism and communion because it shows how participation in Christ’s death and life structures early Christian theology and sacramental imagination.
 
-------------------------------------------------------------------------
+---
 
-## The Mystery of Christ: Life in Death
+### Lord Jesus Christ: Devotion to Jesus in Earliest Christianity  
+![Cover: Lord Jesus Christ](https://covers.openlibrary.org/b/isbn/9780802831675-M.jpg)
 
-**John Behr.** St Vladimir's Seminary Press, 2006.
+**Hurtado, Larry W.** *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity*. Eerdmans, 2003.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1162335.Lord_Jesus_Christ)
 
-Behr explores how early Christian theology interpreted Christ's death
-and resurrection. His work helps illuminate the theological foundations
-behind baptismal participation in Christ's death and life.
+Hurtado studies how remarkably early Christians included Jesus in patterns of worship, devotion, and communal identity. That matters for sacramental theology because baptism and the Lord’s Supper were not free-floating rituals; they belonged to communities whose worship was already centered on the risen Lord.
 
-------------------------------------------------------------------------
+---
 
-## Lord Jesus Christ: Devotion to Jesus in Earliest Christianity
+### The New Testament and the People of God  
+![Cover: The New Testament and the People of God](https://covers.openlibrary.org/b/isbn/9780800626815-M.jpg)
 
-**Larry W. Hurtado.** Eerdmans, 2003.
+**Wright, N. T.** *The New Testament and the People of God*. Fortress Press, 1992.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
 
-Hurtado examines how early Christians came to worship Jesus as Lord.
-This study provides context for early Christian liturgy, communal
-worship, and sacramental practice.
+This first volume in Wright’s major series maps the worldview of Second Temple Judaism and the New Testament world that grows out of it. It is foundational for understanding why themes such as exile, restoration, covenant, kingdom, and new creation loom so large in discussions of baptism and communion.
 
-------------------------------------------------------------------------
+---
 
-## The New Testament and the People of God
+### Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals  
+![Cover: Ascetic Eucharists](https://covers.openlibrary.org/b/isbn/9780198269724-M.jpg)
 
-**N. T. Wright.** Fortress Press, 1992.
+**McGowan, Andrew.** *Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals*. Oxford University Press, 1999.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
 
-Wright situates the New Testament within the story of Israel and Second
-Temple Judaism. His work is foundational for understanding how themes
-like covenant, Exodus, and new creation inform Christian baptism.
-
-------------------------------------------------------------------------
-
-## Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals
-
-**Andrew McGowan.** Oxford University Press, 1999.
-
-McGowan investigates how early Christian communities practiced communal
-meals and Eucharistic celebrations. The book sheds light on how the
-Lord's Supper developed within early Christian worship and ascetic
-traditions.
-
-------------------------------------------------------------------------
-
-## Apostolic and Early Church Writings on Communion
-
--   **Didache (c. AD 70--110)** --- Early Eucharistic prayers and church
-    order.
--   **Ignatius of Antioch --- Letters (c. AD 110)**
-    -   Especially *Letter to the Smyrnaeans*
-    -   Emphasis on Eucharist under episcopal authority.
--   **Justin Martyr --- First Apology (c. AD 155)**
-    -   Early explanation of Christian worship and the Eucharist.
--   **Irenaeus --- Against Heresies (late 2nd century)**
-    -   Eucharist and participation in resurrection life.
+McGowan examines how early Christian communal meals functioned before later Eucharistic practice hardened into more familiar forms. It is especially helpful for students wrestling with how ordinary meals, ritual meals, fasting, asceticism, and the Lord’s Supper overlap without collapsing into one another.
