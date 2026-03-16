@@ -2,15 +2,8 @@
 title: "Baptism and Communion: Selected Resources for Study"
 ---
 
-<!--
-Replace YOUR-USERNAME in the QR code URL below before publishing.
-If you host this page at a different path, update the QR code image URL too.
--->
-
 # Baptism and Communion  
 ## Selected Resources for Study
-
-> A curated bibliography for class use, with clickable links for digital reading and a print-friendly structure for handouts.
 
 This guide gathers biblical, historical, Jewish-background, and theological resources related to **baptism** and **the Lord’s Supper / Eucharist**. The selections are arranged to help students move from broad biblical framing, to Second Temple Jewish context, to early Christian theology and historical development.
 
