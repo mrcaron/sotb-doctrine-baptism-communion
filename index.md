@@ -49,13 +49,14 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 14. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
 15. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
 16. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
-17. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
-18. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
+17. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
+18. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
+19. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
 
 ### Infant Baptism
-19. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
-20. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
-21. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
+20. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
+21. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
+22. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
 
 ---
 
@@ -256,6 +257,16 @@ Behr reads the mystery of Christ through crucifixion, resurrection, Scripture, a
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1162335.Lord_Jesus_Christ)
 
 Hurtado studies how remarkably early Christians included Jesus in patterns of worship, devotion, and communal identity. That matters for sacramental theology because baptism and the Lord’s Supper were not free-floating rituals; they belonged to communities whose worship was already centered on the risen Lord.
+
+---
+
+### Strange Religion  
+<img src="https://covers.openlibrary.org/b/isbn/9781587435171-M.jpg" alt="Cover: Strange Religion" width="180" />
+
+**Gupta, Nijay K.** *Strange Religion: How the First Christians Were Weird, Dangerous, and Compelling*. Brazos Press, 2024.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/182093393-strange-religion)
+
+Gupta introduces early Christianity in its Roman setting by showing how strange Christian worship, ethics, and communal life would have appeared in the ancient world. It is a strong addition here because it helps students grasp how baptism, communion, and allegiance to Jesus belonged to a way of life that was socially disruptive, theologically distinctive, and surprisingly attractive.
 
 ---
 
