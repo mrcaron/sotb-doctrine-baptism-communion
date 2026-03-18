@@ -2,6 +2,64 @@
 title: "Baptism and Communion: Selected Resources for Study"
 ---
 
+<style>
+@media print {
+  html, body {
+    font-size: 11px;
+    line-height: 1.22;
+  }
+
+  h1, h2, h3, h4 {
+    break-after: avoid-page;
+    page-break-after: avoid;
+  }
+
+  h1 {
+    margin: 0 0 0.2rem;
+    font-size: 1.7rem;
+  }
+
+  h2 {
+    margin: 0.8rem 0 0.25rem;
+    font-size: 1.2rem;
+  }
+
+  h3 {
+    margin: 0.55rem 0 0.15rem;
+    font-size: 1rem;
+  }
+
+  h4 {
+    margin: 0.45rem 0 0.1rem;
+    font-size: 0.92rem;
+  }
+
+  p, ul, ol {
+    margin-top: 0.2rem;
+    margin-bottom: 0.35rem;
+  }
+
+  ul, ol {
+    padding-left: 1.1rem;
+    column-gap: 1.5rem;
+    columns: 2;
+  }
+
+  li {
+    margin-bottom: 0.1rem;
+  }
+
+  hr {
+    margin: 0.4rem 0;
+  }
+
+  img {
+    max-width: 110px !important;
+    height: auto !important;
+  }
+}
+</style>
+
 # Baptism and Communion  
 ## Selected Resources for Study
 
