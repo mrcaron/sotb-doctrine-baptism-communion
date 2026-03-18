@@ -78,15 +78,16 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 14. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
 15. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
 16. [N. T. Wright and Michael F. Bird, *The New Testament in Its World*](https://www.goodreads.com/book/show/45836984)
-17. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
-18. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
-19. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
-20. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
+17. [*The Didache*](https://www.earlychristianwritings.com/text/didache-roberts.html)
+18. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
+19. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
+20. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
+21. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
 
 ### Infant Baptism
-21. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
-22. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
-23. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
+22. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
+23. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
+24. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
 
 ---
 
