@@ -353,7 +353,7 @@ McKnight makes a biblical and ecclesial case for infant baptism by arguing that 
 
 ---
 
-## Teaching Notes
+## Other Sources 
 
 ### Holy Communion: A Rookie Anglican Guide to the Eucharist  
 **Davis, Jacob A., and Joshua Steele.** “Holy Communion: A Rookie Anglican Guide to the Eucharist.” *Anglican Compass*, August 27, 2018.  
