@@ -77,15 +77,16 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 13. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
 14. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
 15. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
-16. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
-17. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
-18. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
-19. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
+16. [N. T. Wright and Michael F. Bird, *The New Testament in Its World*](https://www.goodreads.com/book/show/45836984)
+17. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
+18. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
+19. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
+20. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
 
 ### Infant Baptism
-20. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
-21. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
-22. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
+21. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
+22. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
+23. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
 
 ---
 
@@ -375,6 +376,15 @@ Gupta introduces early Christianity in its Roman setting by showing how strange 
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
 
 This first volume in Wright’s major series maps the worldview of Second Temple Judaism and the New Testament world that grows out of it. It is foundational for understanding why themes such as exile, restoration, covenant, kingdom, and new creation loom so large in discussions of baptism and communion.
+
+---
+
+### 📖 The New Testament in Its World  
+
+**Wright, N. T., and Michael F. Bird.** *The New Testament in Its World: An Introduction to the History, Literature, and Theology of the First Christians*. Zondervan Academic, 2019.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/45836984)
+
+This large introduction situates the New Testament within Second Temple Judaism, the Greco-Roman world, and the lived experience of the early church. It is especially useful here because it gathers Wright’s big-picture historical and theological work into one volume while also giving readers a broad framework for themes like kingdom, covenant, church, baptism, and the Lord’s Supper.
 
 ---
 
