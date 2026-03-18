@@ -31,48 +31,40 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 ## Suggested Reading Path
 
 ### Start here
-| # | Resource |
-| --- | --- |
-| 1 | [BibleProject — *The Exodus Way* Guide](https://bibleproject.com/guides/the-exodus-way/) |
-| 2 | [BibleProject Podcast — *N.T. Wright Interview: Baptism and the Exodus Story*](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/) |
-| 3 | [BibleProject - *The Meaning of Baptism in the Bible*](https://bibleproject.com/articles/baptism-in-the-bible/) |
-| 4 | [BibleProject Podcast - *Chaotic Waters & Baptism*](https://bibleproject.com/podcasts/design-patterns-bible-part-4-chaotic-waters-baptism/) |
-| 5 | [BibleProject Podcast - *Anointed: Jesus' Anointing Ceremony*](https://bibleproject.com/podcasts/jesus-anointing-ceremony/) |
-| 6 | [BibleProject - *Why is the Lord's Supper Significant?*](https://bibleproject.com/articles/lords-supper-in-the-bible/) |
-| 7 | [BibleProject - *What Does the Bible Actually Say About Church Fellowship?*](https://bibleproject.com/articles/fellowship-of-the-church-in-the-bible/) |
+1. [BibleProject — *The Exodus Way* Guide](https://bibleproject.com/guides/the-exodus-way/)
+2. [BibleProject Podcast — *N.T. Wright Interview: Baptism and the Exodus Story*](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/)
+3. [BibleProject - *The Meaning of Baptism in the Bible*](https://bibleproject.com/articles/baptism-in-the-bible/)
+4. [BibleProject Podcast - *Chaotic Waters & Baptism*](https://bibleproject.com/podcasts/design-patterns-bible-part-4-chaotic-waters-baptism/)
+5. [BibleProject Podcast - *Anointed: Jesus' Anointing Ceremony*](https://bibleproject.com/podcasts/jesus-anointing-ceremony/)
+6. [BibleProject - *Why is the Lord's Supper Significant?*](https://bibleproject.com/articles/lords-supper-in-the-bible/)
+7. [BibleProject - *What Does the Bible Actually Say About Church Fellowship?*](https://bibleproject.com/articles/fellowship-of-the-church-in-the-bible/)
 
 ### Historical background
-| # | Resource |
-| --- | --- |
-| 8 | [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church) |
-| 9 | [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi) |
-| 10 | [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst) |
-| 11 | [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf) |
+8. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
+9. [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
+10. [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
+11. [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
 
 ### Deeper theological study
-| # | Resource |
-| --- | --- |
-| 12 | [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist) |
-| 13 | [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines) |
-| 14 | [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists) |
-| 15 | [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God) |
-| 16 | [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize) |
-| 17 | [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion) |
-| 18 | [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/) |
-| 19 | [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist) |
+12. [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist)
+13. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
+14. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
+15. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
+16. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
+17. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
+18. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
+19. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
 
 ### Infant Baptism
-| # | Resource |
-| --- | --- |
-| 20 | [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/) |
-| 21 | [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/) |
-| 22 | [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/) |
+20. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
+21. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
+22. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
 
 ---
 
 ## Articles and Primary Sources
 
-### The Bible (New Testament, NASB 2020)
+### 📖 The Bible (New Testament, NASB 2020)
 **Translation:** *New American Standard Bible, 2020 edition (NASB 2020).*  
 **Publisher:** The Lockman Foundation.  
 **Note:** This section is pinned to the most recent NASB edition, the NASB 2020.
@@ -134,7 +126,7 @@ These passages gather the core New Testament material on the Last Supper traditi
 
 ---
 
-### The One True Gospel Requires Resurrection  
+### 📄 The One True Gospel Requires Resurrection  
 **Gupta, Nijay K.** “The One True Gospel Requires Resurrection.” *Substack*, 2024.  
 **Link:** [Read online](https://nijaykgupta.substack.com/p/the-one-true-gospel-requires-resurrection)
 
@@ -142,7 +134,7 @@ Gupta argues that resurrection is not a decorative add-on to the gospel but part
 
 ---
 
-### Jesus, John the Baptist, and the Dead Sea Scrolls  
+### 📄 Jesus, John the Baptist, and the Dead Sea Scrolls  
 **Bird, Michael F.** “Jesus, John the Baptist, and the Dead Sea Scrolls.” *Substack*, 2024.  
 **Link:** [Read online](https://michaelfbird.substack.com/p/jesus-john-the-baptist-and-the-dead)
 
@@ -150,7 +142,7 @@ Bird places John the Baptist within the world of Second Temple Judaism and compa
 
 ---
 
-### Mishnah *Mikvaot* 1:1  
+### 📖 Mishnah *Mikvaot* 1:1  
 **Mishnah.** *Mikvaot* 1:1. Compiled c. 200 CE.  
 **Link:** [Read on Sefaria](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
 
@@ -158,7 +150,7 @@ This tractate gives legal material on ritual immersion and purity. It helps stud
 
 ---
 
-### Josephus on John the Baptist  
+### 📖 Josephus on John the Baptist  
 **Josephus, Flavius.** *Antiquities of the Jews* 18.116–119. c. 93–94 CE.  
 **Link:** [Read on Lexundria](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
 
@@ -166,7 +158,7 @@ Josephus provides a non-Christian witness to John the Baptist and his practice o
 
 ---
 
-### On the Origins of *Tevilah* (Ritual Immersion)  
+### 📄 On the Origins of *Tevilah* (Ritual Immersion)  
 **TheTorah.com.** “On the Origins of Tevilah: Ritual Immersion.”  
 **Link:** [Read online](https://www.thetorah.com/article/on-the-origins-of-tevilah-ritual-immersion)
 
@@ -174,7 +166,7 @@ This article traces the development of immersion practices in Jewish tradition a
 
 ---
 
-### John’s Baptism as a Symbolic Enactment of the Return from Exile  
+### 📄 John’s Baptism as a Symbolic Enactment of the Return from Exile  
 **White, Joel R.** “John’s Baptism as a Symbolic Enactment of the Return from Exile.” *Tyndale Bulletin* 73 (2022): 201–220.  
 **Link:** [Read PDF](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
 
@@ -182,7 +174,7 @@ White argues that John’s baptism symbolized Israel’s long-awaited return fro
 
 ---
 
-### The Meaning of Baptism in the Bible  
+### 📄 The Meaning of Baptism in the Bible  
 **Drimalla, Shara, and BibleProject Team.** “The Meaning of Baptism in the Bible.” *BibleProject*, July 12, 2021.  
 **Link:** [Read online](https://bibleproject.com/articles/baptism-in-the-bible/)
 
@@ -190,7 +182,7 @@ This article traces baptism as a biblical design pattern of salvation through th
 
 ---
 
-### Why Is the Lord’s Supper Significant in the Bible?  
+### 📄 Why Is the Lord’s Supper Significant in the Bible?  
 **Drimalla, Shara, and BibleProject Team.** “Why Is the Lord’s Supper Significant in the Bible?” *BibleProject*, October 18, 2021.  
 **Link:** [Read online](https://bibleproject.com/articles/lords-supper-in-the-bible/)
 
@@ -198,7 +190,7 @@ This article frames the Lord’s Supper within the Bible’s larger meal theme, 
 
 ---
 
-### What Does the Bible Actually Say About Church Fellowship?  
+### 📄 What Does the Bible Actually Say About Church Fellowship?  
 **Hayes, Cheree, and BibleProject Team.** “What Does the Bible Actually Say About Church Fellowship?” *BibleProject*, September 27, 2021.  
 **Link:** [Read online](https://bibleproject.com/articles/fellowship-of-the-church-in-the-bible/)
 
