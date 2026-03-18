@@ -2,64 +2,6 @@
 title: "Baptism and Communion: Selected Resources for Study"
 ---
 
-<style>
-@media print {
-  html, body {
-    font-size: 11px;
-    line-height: 1.22;
-  }
-
-  h1, h2, h3, h4 {
-    break-after: avoid-page;
-    page-break-after: avoid;
-  }
-
-  h1 {
-    margin: 0 0 0.2rem;
-    font-size: 1.7rem;
-  }
-
-  h2 {
-    margin: 0.8rem 0 0.25rem;
-    font-size: 1.2rem;
-  }
-
-  h3 {
-    margin: 0.55rem 0 0.15rem;
-    font-size: 1rem;
-  }
-
-  h4 {
-    margin: 0.45rem 0 0.1rem;
-    font-size: 0.92rem;
-  }
-
-  p, ul, ol {
-    margin-top: 0.2rem;
-    margin-bottom: 0.35rem;
-  }
-
-  ul, ol {
-    padding-left: 1.1rem;
-    column-gap: 1.5rem;
-    columns: 2;
-  }
-
-  li {
-    margin-bottom: 0.1rem;
-  }
-
-  hr {
-    margin: 0.4rem 0;
-  }
-
-  img {
-    max-width: 110px !important;
-    height: auto !important;
-  }
-}
-</style>
-
 # Baptism and Communion  
 ## Selected Resources for Study
 
@@ -75,46 +17,56 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 
 ## Table of Contents
 
-- [Suggested Reading Path](#suggested-reading-path)
-- [Online Access / QR Code](#online-access--qr-code)
-- [Articles and Primary Sources](#articles-and-primary-sources)
-- [BibleProject Episodes and Transcripts](#bibleproject-episodes-and-transcripts)
-- [Books](#books)
-- [Teaching Notes](#teaching-notes)
+| Section |
+| --- |
+| [Suggested Reading Path](#suggested-reading-path) |
+| [Online Access / QR Code](#online-access--qr-code) |
+| [Articles and Primary Sources](#articles-and-primary-sources) |
+| [BibleProject Episodes and Transcripts](#bibleproject-episodes-and-transcripts) |
+| [Books](#books) |
+| [Teaching Notes](#teaching-notes) |
 
 ---
 
 ## Suggested Reading Path
 
 ### Start here
-1. [BibleProject — *The Exodus Way* Guide](https://bibleproject.com/guides/the-exodus-way/)
-2. [BibleProject Podcast — *N.T. Wright Interview: Baptism and the Exodus Story*](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/)
-3. [BibleProject - *The Meaning of Baptism in the Bible*](https://bibleproject.com/articles/baptism-in-the-bible/)
-4. [BibleProject Podcast - *Chaotic Waters & Baptism*](https://bibleproject.com/podcasts/design-patterns-bible-part-4-chaotic-waters-baptism/)
-5. [BibleProject Podcast - *Anointed: Jesus' Anointing Ceremony*](https://bibleproject.com/podcasts/jesus-anointing-ceremony/)
-6. [BibleProject - *Why is the Lord's Supper Significant?*](https://bibleproject.com/articles/lords-supper-in-the-bible/)
-7. [BibleProject - *What Does the Bible Actually Say About Church Fellowship?*](https://bibleproject.com/articles/fellowship-of-the-church-in-the-bible/)
+| # | Resource |
+| --- | --- |
+| 1 | [BibleProject — *The Exodus Way* Guide](https://bibleproject.com/guides/the-exodus-way/) |
+| 2 | [BibleProject Podcast — *N.T. Wright Interview: Baptism and the Exodus Story*](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/) |
+| 3 | [BibleProject - *The Meaning of Baptism in the Bible*](https://bibleproject.com/articles/baptism-in-the-bible/) |
+| 4 | [BibleProject Podcast - *Chaotic Waters & Baptism*](https://bibleproject.com/podcasts/design-patterns-bible-part-4-chaotic-waters-baptism/) |
+| 5 | [BibleProject Podcast - *Anointed: Jesus' Anointing Ceremony*](https://bibleproject.com/podcasts/jesus-anointing-ceremony/) |
+| 6 | [BibleProject - *Why is the Lord's Supper Significant?*](https://bibleproject.com/articles/lords-supper-in-the-bible/) |
+| 7 | [BibleProject - *What Does the Bible Actually Say About Church Fellowship?*](https://bibleproject.com/articles/fellowship-of-the-church-in-the-bible/) |
 
 ### Historical background
-8. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
-9. [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
-10. [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
-11. [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
+| # | Resource |
+| --- | --- |
+| 8 | [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church) |
+| 9 | [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi) |
+| 10 | [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst) |
+| 11 | [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf) |
 
 ### Deeper theological study
-12. [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist)
-13. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
-14. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
-15. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
-16. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
-17. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
-18. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
-19. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
+| # | Resource |
+| --- | --- |
+| 12 | [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist) |
+| 13 | [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines) |
+| 14 | [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists) |
+| 15 | [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God) |
+| 16 | [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize) |
+| 17 | [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion) |
+| 18 | [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/) |
+| 19 | [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist) |
 
 ### Infant Baptism
-20. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
-21. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
-22. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
+| # | Resource |
+| --- | --- |
+| 20 | [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/) |
+| 21 | [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/) |
+| 22 | [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/) |
 
 ---
 
@@ -126,53 +78,57 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 **Note:** This section is pinned to the most recent NASB edition, the NASB 2020.
 
 #### Baptism
-- Matthew 3:1-17
-- Matthew 28:18-20
-- Mark 1:4-11
-- Mark 16:15-16
-- Luke 3:1-22
-- John 1:25-34
-- John 3:22-23
-- Acts 2:37-41
-- Acts 8:12-17
-- Acts 8:26-39
-- Acts 9:17-18
-- Acts 10:44-48
-- Acts 16:13-15
-- Acts 16:29-34
-- Acts 18:8
-- Acts 19:1-7
-- Acts 22:12-16
-- Romans 6:1-11
-- 1 Corinthians 1:10-17
-- 1 Corinthians 10:1-4
-- 1 Corinthians 12:12-13
-- Galatians 3:26-29
-- Ephesians 4:4-6
-- Colossians 2:11-13
-- Titus 3:4-7
-- Hebrews 10:19-22
-- 1 Peter 3:18-22
+| Passage | Summary |
+| --- | --- |
+| Matthew 3:1-17 | John calls Israel to repentance, Jesus is baptized, and the Father and Spirit publicly mark him out. |
+| Matthew 28:18-20 | The risen Jesus commands disciple-making that includes baptism into the triune name. |
+| Mark 1:4-11 | Mark presents John’s baptism of repentance and Jesus’ baptism as the opening revelation of his identity. |
+| Mark 16:15-16 | The longer ending links gospel belief and baptism with salvation, while unbelief brings condemnation. |
+| Luke 3:1-22 | Luke ties John’s baptism to repentance and then narrates Jesus’ baptism and anointing by the Spirit. |
+| John 1:25-34 | John the Baptist explains his baptizing role and identifies Jesus as the Spirit-anointed Son of God. |
+| John 3:22-23 | Jesus’ ministry overlaps with John’s in a scene of active baptizing near abundant water. |
+| Acts 2:37-41 | Peter calls repentant hearers to baptism for forgiveness and the gift of the Holy Spirit. |
+| Acts 8:12-17 | Samaritans are baptized in Jesus’ name and later receive the Spirit through apostolic laying on of hands. |
+| Acts 8:26-39 | The Ethiopian eunuch hears the gospel, believes, and is baptized immediately on the road. |
+| Acts 9:17-18 | Saul receives the Spirit, regains his sight, and is baptized as part of his conversion. |
+| Acts 10:44-48 | Gentiles receive the Holy Spirit and are then baptized, showing God has welcomed them fully. |
+| Acts 16:13-15 | Lydia believes Paul’s message and is baptized along with her household. |
+| Acts 16:29-34 | The Philippian jailer believes the gospel and is baptized that very night with his household. |
+| Acts 18:8 | Crispus and many Corinthians believe and are baptized in response to Paul’s preaching. |
+| Acts 19:1-7 | Paul rebaptizes disciples who knew only John’s baptism and they receive the Holy Spirit. |
+| Acts 22:12-16 | Paul retells Ananias’ call to be baptized and wash away sins while calling on Jesus’ name. |
+| Romans 6:1-11 | Baptism is described as participation in Christ’s death and resurrection for a new way of life. |
+| 1 Corinthians 1:10-17 | Paul downplays allegiance to human baptizers so that the cross remains central. |
+| 1 Corinthians 10:1-4 | Paul portrays Israel’s Red Sea experience as a kind of baptism into Moses. |
+| 1 Corinthians 12:12-13 | All believers are baptized by one Spirit into one body and share a common life in Christ. |
+| Galatians 3:26-29 | Baptism is linked with putting on Christ and belonging equally to Abraham’s family. |
+| Ephesians 4:4-6 | One baptism stands alongside one body, one Spirit, and one Lord as a mark of Christian unity. |
+| Colossians 2:11-13 | Baptism is tied to burial and resurrection with Christ and to God’s forgiving, life-giving work. |
+| Titus 3:4-7 | Paul speaks of salvation through washing, renewal, and the Holy Spirit poured out in grace. |
+| Hebrews 10:19-22 | The writer invokes washed bodies and cleansed hearts as believers draw near to God. |
+| 1 Peter 3:18-22 | Peter connects Noah’s flood pattern to baptism as an appeal to God through Christ’s resurrection. |
 
 These are the major New Testament passages for tracing John’s baptism, Jesus’ baptism, apostolic baptismal practice, and the theological meaning of baptism in union with Christ, forgiveness, Spirit-gift, cleansing, and incorporation into the church.
 
 ---
 
 #### Communion / The Lord’s Supper
-- Matthew 26:26-29
-- Mark 14:22-25
-- Luke 22:14-20
-- John 6:26-58
-- Acts 2:42
-- Acts 2:46
-- Acts 20:7-11
-- 1 Corinthians 10:14-22
-- 1 Corinthians 11:17-34
-- Hebrews 9:11-15
-- Hebrews 10:19-25
-- Hebrews 13:9-16
-- Revelation 3:20
-- Revelation 19:6-9
+| Passage | Summary |
+| --- | --- |
+| Matthew 26:26-29 | Jesus identifies the bread and cup with his body and blood and frames the meal in kingdom hope. |
+| Mark 14:22-25 | Mark emphasizes the covenantal meaning of the meal and Jesus’ vow not to drink again until the kingdom. |
+| Luke 22:14-20 | Luke ties the Supper to Passover, remembrance, and the new covenant in Jesus’ blood. |
+| John 6:26-58 | Jesus’ bread-of-life discourse uses eating and drinking language to stress life through abiding in him. |
+| Acts 2:42 | The earliest church devotes itself to apostolic teaching, fellowship, breaking bread, and prayer. |
+| Acts 2:46 | Believers share meals with joy and simplicity, showing the communal setting of early table fellowship. |
+| Acts 20:7-11 | The church gathers on the first day of the week to break bread in a distinctly Christian assembly. |
+| 1 Corinthians 10:14-22 | Paul says the cup and bread are a participation in Christ and incompatible with idolatrous meals. |
+| 1 Corinthians 11:17-34 | Paul corrects abuses at the Lord’s Supper and calls for discernment, unity, and self-examination. |
+| Hebrews 9:11-15 | Christ’s sacrificial blood grounds the new covenant that the Supper proclaims and remembers. |
+| Hebrews 10:19-25 | Because Jesus opened the way into God’s presence, believers gather in confidence and mutual encouragement. |
+| Hebrews 13:9-16 | Christian worship is centered on Christ’s once-for-all offering and a life of praise and shared sacrifice. |
+| Revelation 3:20 | Jesus’ promise of table fellowship portrays restored communion with his people. |
+| Revelation 19:6-9 | The marriage supper of the Lamb provides the Supper’s ultimate forward-looking horizon. |
 
 These passages gather the core New Testament material on the Last Supper traditions, the church’s breaking of bread, participation in Christ, covenant remembrance, self-examination, and the Supper’s forward look toward the messianic banquet.
 
@@ -305,7 +261,6 @@ This episode connects Jesus’ baptism with anointing, messiahship, the Spirit, 
 ## Books
 
 ### Baptism: Three Views  
-<img src="https://covers.openlibrary.org/b/isbn/0830838562-M.jpg" alt="Cover: Baptism: Three Views" width="180" />
 
 **Wright, David F., ed.** *Baptism: Three Views*. IVP Academic, 2009.  
 **Buy / preview:** [Amazon](https://a.co/d/03mAXQ1X)  
@@ -316,7 +271,6 @@ This volume places three major Christian understandings of baptism in direct con
 ---
 
 ### Transforming Encounters: Baptism, Assembly, and the Lord’s Supper  
-<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719705822i/199537199.jpg" alt="Cover: Transforming Encounters" width="180" />
 
 **Hicks, John Mark.** *Transforming Encounters: Baptism, Assembly, and the Lord’s Supper*. Regnum Media / Center for Christian Studies, 2023.  
 **Buy / preview:** [Amazon](https://a.co/d/057s69IQ)  
@@ -327,7 +281,6 @@ Hicks argues that baptism, the gathered assembly, and the Lord’s Supper are no
 ---
 
 ### Early Christian Doctrines  
-<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388365041i/1206742.jpg" alt="Cover: Early Christian Doctrines" width="180" />
 
 **Kelly, J. N. D.** *Early Christian Doctrines*. 5th rev. ed. HarperOne, 1978.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
@@ -337,7 +290,6 @@ Kelly remains one of the standard guides to doctrinal development in the early c
 ---
 
 ### Worship in the Early Church  
-<img src="https://m.media-amazon.com/images/I/4150oky--EL._SY445_SX342_FMwebp_.jpg" alt="Cover: Worship in the Early Church" width="180" />
 
 **Gonzalez, Justo L., and Catherine Gunsalus Gonzalez.** *Worship in the Early Church*. Westminster John Knox Press, 2022.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
@@ -347,7 +299,6 @@ Gonzalez traces how preaching, baptism, and Eucharist developed across the first
 ---
 
 ### The Eucharist: Sacrament of the Kingdom  
-<img src="https://covers.openlibrary.org/b/isbn/0881410187-M.jpg" alt="Cover: The Eucharist: Sacrament of the Kingdom" width="180" />
 
 **Schmemann, Alexander.** *The Eucharist: Sacrament of the Kingdom*. St Vladimir’s Seminary Press, 1987.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/623583.The_Eucharist)
@@ -357,7 +308,6 @@ Schmemann presents the Eucharist not as a fussy mechanism to be dissected but as
 ---
 
 ### The Mystery of Christ: Life in Death  
-<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1331506334i/1496390.jpg" alt="Cover: The Mystery of Christ" width="180" />
 
 **Behr, John.** *The Mystery of Christ: Life in Death*. St Vladimir’s Seminary Press, 2006.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1496390.The_Mystery_of_Christ)
@@ -367,7 +317,6 @@ Behr reads the mystery of Christ through crucifixion, resurrection, Scripture, a
 ---
 
 ### Lord Jesus Christ: Devotion to Jesus in Earliest Christianity  
-<img src="https://covers.openlibrary.org/b/isbn/9780802831675-M.jpg" alt="Cover: Lord Jesus Christ" width="180" />
 
 **Hurtado, Larry W.** *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity*. Eerdmans, 2003.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1162335.Lord_Jesus_Christ)
@@ -377,7 +326,6 @@ Hurtado studies how remarkably early Christians included Jesus in patterns of wo
 ---
 
 ### Strange Religion  
-<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1693401399i/182093393.jpg" alt="Cover: Strange Religion" width="180" />
 
 **Gupta, Nijay K.** *Strange Religion: How the First Christians Were Weird, Dangerous, and Compelling*. Brazos Press, 2024.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/182093393-strange-religion)
@@ -387,7 +335,6 @@ Gupta introduces early Christianity in its Roman setting by showing how strange 
 ---
 
 ### The New Testament and the People of God  
-<img src="https://covers.openlibrary.org/b/isbn/9780800626815-M.jpg" alt="Cover: The New Testament and the People of God" width="180" />
 
 **Wright, N. T.** *The New Testament and the People of God*. Fortress Press, 1992.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
@@ -397,7 +344,6 @@ This first volume in Wright’s major series maps the worldview of Second Temple
 ---
 
 ### Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals  
-<img src="https://covers.openlibrary.org/b/isbn/9780198269724-M.jpg" alt="Cover: Ascetic Eucharists" width="180" />
 
 **McGowan, Andrew.** *Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals*. Oxford University Press, 1999.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
@@ -407,7 +353,6 @@ McGowan examines how early Christian communal meals functioned before later Euch
 ---
 
 ### It Takes a Church to Baptize  
-<img src="https://covers.openlibrary.org/b/isbn/9781587434167-M.jpg" alt="Cover: It Takes a Church to Baptize" width="180" />
 
 **McKnight, Scot.** *It Takes a Church to Baptize: What the Bible Says about Infant Baptism*. Brazos Press, 2018.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
