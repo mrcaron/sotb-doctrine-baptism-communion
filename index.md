@@ -109,6 +109,30 @@ White argues that John’s baptism symbolized Israel’s long-awaited return fro
 
 ---
 
+### The Meaning of Baptism in the Bible  
+**Drimalla, Shara, and BibleProject Team.** “The Meaning of Baptism in the Bible.” *BibleProject*, July 12, 2021.  
+**Link:** [Read online](https://bibleproject.com/articles/baptism-in-the-bible/)
+
+This article traces baptism as a biblical design pattern of salvation through the waters, moving from creation and flood to Exodus, Jordan crossing, John, Jesus, and the apostles. It is especially useful for showing that baptism is not an isolated ordinance but a richly layered symbol of death, rescue, new creation, and participation in Christ.
+
+---
+
+### Why Is the Lord’s Supper Significant in the Bible?  
+**Drimalla, Shara, and BibleProject Team.** “Why Is the Lord’s Supper Significant in the Bible?” *BibleProject*, October 18, 2021.  
+**Link:** [Read online](https://bibleproject.com/articles/lords-supper-in-the-bible/)
+
+This article frames the Lord’s Supper within the Bible’s larger meal theme, from Eden and Israel’s feasts to Jesus’ final meal with his disciples. It helps students see communion as more than bare remembrance: it is a meal of thanksgiving, participation, covenant memory, and shared life in God’s presence.
+
+---
+
+### What Does the Bible Actually Say About Church Fellowship?  
+**Hayes, Cheree, and BibleProject Team.** “What Does the Bible Actually Say About Church Fellowship?” *BibleProject*, September 27, 2021.  
+**Link:** [Read online](https://bibleproject.com/articles/fellowship-of-the-church-in-the-bible/)
+
+This article explores *koinonia* as shared participation in the life of God and in the life of the church, not merely friendliness or potluck culture. It is a helpful companion to baptism and communion because it shows how sacramental life belongs inside a community marked by generosity, mutual care, and common life.
+
+---
+
 ## BibleProject Episodes and Transcripts
 
 ### The Exodus Way (Series Guide)  
@@ -142,6 +166,22 @@ This episode explores Jesus’ baptism and wilderness testing as part of a large
 **Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/jesus-new-mosesand-much-more/)
 
 This episode tracks Exodus echoes in the Gospel portraits of Jesus—his birth, baptism, wilderness testing, and public ministry. It helps students see that baptism is not an isolated ritual but one piece of a larger new-Exodus theology.
+
+---
+
+### Chaotic Waters and Baptism  
+**BibleProject Podcast.** *How To Read the Bible*, Episode 16. April 23, 2018.  
+**Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/design-patterns-bible-part-4-chaotic-waters-baptism/)
+
+This episode follows the Bible’s recurring “salvation through water” pattern from Joshua and Isaiah into Jesus’ baptism and Paul’s letters. It is especially helpful for students who want to hear the design-pattern approach worked out in conversational form rather than only in article form.
+
+---
+
+### Jesus’ Anointing Ceremony  
+**BibleProject Podcast.** *The Anointed*, Episode 6. April 17, 2023.  
+**Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/jesus-anointing-ceremony/)
+
+This episode connects Jesus’ baptism with anointing, messiahship, the Spirit, and the biblical meaning of being “the Anointed One.” It is useful because it shows that Jesus’ baptism is not only about repentance imagery but also about royal and priestly commissioning for his public mission.
 
 ---
 
@@ -236,3 +276,55 @@ This first volume in Wright’s major series maps the worldview of Second Temple
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
 
 McGowan examines how early Christian communal meals functioned before later Eucharistic practice hardened into more familiar forms. It is especially helpful for students wrestling with how ordinary meals, ritual meals, fasting, asceticism, and the Lord’s Supper overlap without collapsing into one another.
+
+---
+
+### It Takes a Church to Baptize  
+<img src="https://covers.openlibrary.org/b/isbn/9781587434167-M.jpg" alt="Cover: It Takes a Church to Baptize" width="180" />
+
+**McKnight, Scot.** *It Takes a Church to Baptize: What the Bible Says about Infant Baptism*. Brazos Press, 2018.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
+
+McKnight makes a biblical and ecclesial case for infant baptism by arguing that baptism belongs to the covenant life of the family and the church, not merely to isolated individual decision. It is especially useful for readers from believer’s-baptism traditions because it states the paedobaptist case in an accessible way while emphasizing formation, community, and long obedience.
+
+---
+
+## Teaching Notes
+
+### Holy Communion: A Rookie Anglican Guide to the Eucharist  
+**Davis, Jacob A., and Joshua Steele.** “Holy Communion: A Rookie Anglican Guide to the Eucharist.” *Anglican Compass*, August 27, 2018.  
+**Link:** [Read online](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
+
+This guide explains Holy Communion in Anglican terms as both remembrance and real participation in Christ, while also walking readers through the overall shape of the liturgy. It is especially helpful for students who want a practical, church-level explanation of how Eucharistic theology and weekly worship fit together.
+
+---
+
+### Holy Eucharist  
+**Greek Orthodox Archdiocese of America.** “Holy Eucharist.”  
+**Link:** [Read online](https://www.goarch.org/-/the-holy-eucharist)
+
+This Orthodox guide presents the Eucharist as the center of the church’s worshiping life and the chief sacramental participation in Christ’s death, resurrection, and Kingdom. It is useful as a concise window into how Eastern Christian theology ties communion to divine liturgy, thanksgiving, and the communal life of the Church.
+
+---
+
+### The Baptism of Our Lord: A Rookie Anglican Guide  
+**Johnston, Peter.** “The Baptism of Our Lord: A Rookie Anglican Guide.” *Anglican Compass*, January 7, 2025.  
+**Link:** [Read online](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
+
+This guide explains Jesus’ baptism as the beginning of his public ministry, a revelation of the Trinity, and a sign of new creation. It is especially helpful for connecting Jesus’ baptism to later Christian baptism and for showing why many liturgical traditions give this event such a prominent place in the church year.
+
+---
+
+### Infant vs. Believer’s Baptism  
+**Messmer, Andrew.** “Anglicans, Infant Baptism, and Believer’s Baptism: A Baptist Weighs-In (Opinion).” *Anglican Compass*, December 17, 2020.  
+**Link:** [Read online](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
+
+Messmer argues for a charitable “dual-practice” approach, suggesting that Anglican and Baptist Christians should not treat the infant-versus-believer’s baptism question as a church-dividing absolute. Even where readers disagree, the piece is helpful because it introduces historical evidence, ecumenical instincts, and the pastoral stakes of the debate.
+
+---
+
+### Why Do Anglicans Baptize Babies?  
+**The Anglican Pastor.** “Infant Baptism: Why do Anglicans Baptize Babies?” *Anglican Compass*, March 6, 2013.  
+**Link:** [Read online](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
+
+This brief guide offers a straightforward Anglican defense of infant baptism, appealing to covenant inclusion, the church’s historic practice, and the promise of the gospel to believers and their children. It is useful as a quick introduction to the pastoral logic behind paedobaptism before turning to more technical treatments.
