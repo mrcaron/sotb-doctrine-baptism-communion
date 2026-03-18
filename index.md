@@ -65,29 +65,30 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 5. [BibleProject Podcast - *Anointed: Jesus' Anointing Ceremony*](https://bibleproject.com/podcasts/jesus-anointing-ceremony/)
 6. [BibleProject - *Why is the Lord's Supper Significant?*](https://bibleproject.com/articles/lords-supper-in-the-bible/)
 7. [BibleProject - *What Does the Bible Actually Say About Church Fellowship?*](https://bibleproject.com/articles/fellowship-of-the-church-in-the-bible/)
+8. [Tim Mackie - *The Passover*](https://youtu.be/a0xLsltEaQo?si=8MSL2excu--EQrvt)
 
 ### Historical background
-8. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
-9. [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
-10. [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
-11. [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
+9. [Justo L. Gonzalez, *Worship in the Early Church*](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
+10. [Mishnah *Mikvaot* 1:1](https://www.sefaria.org/Mishnah_Mikvaot.1.1?lang=bi)
+11. [Josephus, *Antiquities* 18.116–119](https://lexundria.com/go?q=J.+AJ+18.+116-119&v=wst)
+12. [Joel R. White, “John’s Baptism as a Symbolic Enactment of the Return from Exile” (2022)](https://pdfs.semanticscholar.org/f0ea/7b84cb5e9b3a79783169985466faf9160c28.pdf)
 
 ### Deeper theological study
-12. [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist)
-13. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
-14. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
-15. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
-16. [N. T. Wright and Michael F. Bird, *The New Testament in Its World*](https://www.goodreads.com/book/show/45836984)
-17. [*The Didache*](https://www.earlychristianwritings.com/text/didache-roberts.html)
-18. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
-19. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
-20. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
-21. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
+13. [Alexander Schmemann, *The Eucharist: Sacrament of the Kingdom*](https://www.goodreads.com/book/show/623583.The_Eucharist)
+14. [J. N. D. Kelly, *Early Christian Doctrines*](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
+15. [Andrew McGowan, *Ascetic Eucharists*](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
+16. [N. T. Wright, *The New Testament and the People of God*](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
+17. [N. T. Wright and Michael F. Bird, *The New Testament in Its World*](https://www.goodreads.com/book/show/45836984)
+18. [*The Didache*](https://www.earlychristianwritings.com/text/didache-roberts.html)
+19. [Scot McKnight, *It Takes a Church to Baptize*](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
+20. [Nijay K. Gupta, *Strange Religion*](https://www.goodreads.com/book/show/182093393-strange-religion)
+21. [Anglican Compass - *Holy Communion: A Rookie Anglican Guide to the Eucharist*](https://anglicancompass.com/holy-communion-a-rookie-anglican-guide/)
+22. [The Greek Orthodox Church of America: *Holy Eucharist*](https://www.goarch.org/-/the-holy-eucharist)
 
 ### Infant Baptism
-22. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
-23. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
-24. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
+23. [Anglican Compass - *The Baptism of Our Lord: A Rookie Aglican Guide*](https://anglicancompass.com/the-baptism-of-our-lord-a-rookie-anglican-guide/)
+24. [Anglican Compass - *Infant vs. Believer's Baptism*](https://anglicancompass.com/anglicans-should-accept-both-believers-and-infant-baptism-a-baptist-weighs-in/)
+25. [Anglican Compass - *Why do Anglicans Baptize Babies?*](https://anglicancompass.com/infant-baptism-why-do-anglicans-baptize-babies/)
 
 ---
 
