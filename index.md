@@ -62,6 +62,64 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
 
 ## Articles and Primary Sources
 
+### The Bible (New Testament, NASB 2020)
+**Translation:** *New American Standard Bible, 2020 edition (NASB 2020).*  
+**Publisher:** The Lockman Foundation.  
+**Note:** This section is pinned to the most recent NASB edition, the NASB 2020.
+
+#### Baptism
+- Matthew 3:1-17
+- Matthew 28:18-20
+- Mark 1:4-11
+- Mark 16:15-16
+- Luke 3:1-22
+- John 1:25-34
+- John 3:22-23
+- Acts 2:37-41
+- Acts 8:12-17
+- Acts 8:26-39
+- Acts 9:17-18
+- Acts 10:44-48
+- Acts 16:13-15
+- Acts 16:29-34
+- Acts 18:8
+- Acts 19:1-7
+- Acts 22:12-16
+- Romans 6:1-11
+- 1 Corinthians 1:10-17
+- 1 Corinthians 10:1-4
+- 1 Corinthians 12:12-13
+- Galatians 3:26-29
+- Ephesians 4:4-6
+- Colossians 2:11-13
+- Titus 3:4-7
+- Hebrews 10:19-22
+- 1 Peter 3:18-22
+
+These are the major New Testament passages for tracing John’s baptism, Jesus’ baptism, apostolic baptismal practice, and the theological meaning of baptism in union with Christ, forgiveness, Spirit-gift, cleansing, and incorporation into the church.
+
+---
+
+#### Communion / The Lord’s Supper
+- Matthew 26:26-29
+- Mark 14:22-25
+- Luke 22:14-20
+- John 6:26-58
+- Acts 2:42
+- Acts 2:46
+- Acts 20:7-11
+- 1 Corinthians 10:14-22
+- 1 Corinthians 11:17-34
+- Hebrews 9:11-15
+- Hebrews 10:19-25
+- Hebrews 13:9-16
+- Revelation 3:20
+- Revelation 19:6-9
+
+These passages gather the core New Testament material on the Last Supper traditions, the church’s breaking of bread, participation in Christ, covenant remembrance, self-examination, and the Supper’s forward look toward the messianic banquet.
+
+---
+
 ### The One True Gospel Requires Resurrection  
 **Gupta, Nijay K.** “The One True Gospel Requires Resurrection.” *Substack*, 2024.  
 **Link:** [Read online](https://nijaykgupta.substack.com/p/the-one-true-gospel-requires-resurrection)
