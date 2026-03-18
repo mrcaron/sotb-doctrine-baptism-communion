@@ -319,7 +319,7 @@ Hurtado studies how remarkably early Christians included Jesus in patterns of wo
 ---
 
 ### Strange Religion  
-<img src="https://prodimage.images-bn.com/pimages/9781587435171_p0_v3_s90x140.jpg" alt="Cover: Strange Religion" width="180" />
+<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1693401399i/182093393.jpg" alt="Cover: Strange Religion" width="180" />
 
 **Gupta, Nijay K.** *Strange Religion: How the First Christians Were Weird, Dangerous, and Compelling*. Brazos Press, 2024.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/182093393-strange-religion)
