@@ -135,7 +135,7 @@ This episode tracks Exodus echoes in the Gospel portraits of Jesus—his birth, 
 ## Books
 
 ### Baptism: Three Views  
-![Cover: Baptism: Three Views](https://covers.openlibrary.org/b/isbn/0830838562-M.jpg)
+<img src="https://covers.openlibrary.org/b/isbn/0830838562-M.jpg" alt="Cover: Baptism: Three Views" width="180" />
 
 **Wright, David F., ed.** *Baptism: Three Views*. IVP Academic, 2009.  
 **Buy / preview:** [Amazon](https://a.co/d/03mAXQ1X)  
@@ -146,7 +146,7 @@ This volume places three major Christian understandings of baptism in direct con
 ---
 
 ### Transforming Encounters: Baptism, Assembly, and the Lord’s Supper  
-![Cover: Transforming Encounters](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719705822i/199537199.jpg)
+<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719705822i/199537199.jpg" alt="Cover: Transforming Encounters" width="180" />
 
 **Hicks, John Mark.** *Transforming Encounters: Baptism, Assembly, and the Lord’s Supper*. Regnum Media / Center for Christian Studies, 2023.  
 **Buy / preview:** [Amazon](https://a.co/d/057s69IQ)  
@@ -157,7 +157,7 @@ Hicks argues that baptism, the gathered assembly, and the Lord’s Supper are no
 ---
 
 ### Early Christian Doctrines  
-![Cover: Early Christian Doctrines](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388365041i/1206742.jpg)
+<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388365041i/1206742.jpg" alt="Cover: Early Christian Doctrines" width="180" />
 
 **Kelly, J. N. D.** *Early Christian Doctrines*. 5th rev. ed. HarperOne, 1978.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
@@ -167,7 +167,7 @@ Kelly remains one of the standard guides to doctrinal development in the early c
 ---
 
 ### Worship in the Early Church  
-![Cover: Worship in the Early Church](https://m.media-amazon.com/images/I/4150oky--EL._SY445_SX342_FMwebp_.jpg)
+<img src="https://m.media-amazon.com/images/I/4150oky--EL._SY445_SX342_FMwebp_.jpg" alt="Cover: Worship in the Early Church" width="180" />
 
 **Gonzalez, Justo L., and Catherine Gunsalus Gonzalez.** *Worship in the Early Church*. Westminster John Knox Press, 2022.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
@@ -177,7 +177,7 @@ Gonzalez traces how preaching, baptism, and Eucharist developed across the first
 ---
 
 ### The Eucharist: Sacrament of the Kingdom  
-![Cover: The Eucharist: Sacrament of the Kingdom](https://covers.openlibrary.org/b/isbn/0881410187-M.jpg)
+<img src="https://covers.openlibrary.org/b/isbn/0881410187-M.jpg" alt="Cover: The Eucharist: Sacrament of the Kingdom" width="180" />
 
 **Schmemann, Alexander.** *The Eucharist: Sacrament of the Kingdom*. St Vladimir’s Seminary Press, 1987.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/623583.The_Eucharist)
@@ -187,7 +187,7 @@ Schmemann presents the Eucharist not as a fussy mechanism to be dissected but as
 ---
 
 ### The Mystery of Christ: Life in Death  
-![Cover: The Mystery of Christ](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1331506334i/1496390.jpg)
+<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1331506334i/1496390.jpg" alt="Cover: The Mystery of Christ" width="180" />
 
 **Behr, John.** *The Mystery of Christ: Life in Death*. St Vladimir’s Seminary Press, 2006.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1496390.The_Mystery_of_Christ)
@@ -197,7 +197,7 @@ Behr reads the mystery of Christ through crucifixion, resurrection, Scripture, a
 ---
 
 ### Lord Jesus Christ: Devotion to Jesus in Earliest Christianity  
-![Cover: Lord Jesus Christ](https://covers.openlibrary.org/b/isbn/9780802831675-M.jpg)
+<img src="https://covers.openlibrary.org/b/isbn/9780802831675-M.jpg" alt="Cover: Lord Jesus Christ" width="180" />
 
 **Hurtado, Larry W.** *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity*. Eerdmans, 2003.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1162335.Lord_Jesus_Christ)
@@ -207,7 +207,7 @@ Hurtado studies how remarkably early Christians included Jesus in patterns of wo
 ---
 
 ### The New Testament and the People of God  
-![Cover: The New Testament and the People of God](https://covers.openlibrary.org/b/isbn/9780800626815-M.jpg)
+<img src="https://covers.openlibrary.org/b/isbn/9780800626815-M.jpg" alt="Cover: The New Testament and the People of God" width="180" />
 
 **Wright, N. T.** *The New Testament and the People of God*. Fortress Press, 1992.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
@@ -217,7 +217,7 @@ This first volume in Wright’s major series maps the worldview of Second Temple
 ---
 
 ### Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals  
-![Cover: Ascetic Eucharists](https://covers.openlibrary.org/b/isbn/9780198269724-M.jpg)
+<img src="https://covers.openlibrary.org/b/isbn/9780198269724-M.jpg" alt="Cover: Ascetic Eucharists" width="180" />
 
 **McGowan, Andrew.** *Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals*. Oxford University Press, 1999.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
