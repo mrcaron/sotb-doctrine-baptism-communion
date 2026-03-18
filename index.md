@@ -107,33 +107,33 @@ This guide gathers biblical, historical, Jewish-background, and theological reso
     </tr>
   </thead>
   <tbody>
-    <tr><td>Matthew 3:1-17</td><td>John calls Israel to repentance, Jesus is baptized, and the Father and Spirit publicly mark him out.</td></tr>
-    <tr><td>Matthew 28:18-20</td><td>The risen Jesus commands disciple-making that includes baptism into the triune name.</td></tr>
-    <tr><td>Mark 1:4-11</td><td>Mark presents John’s baptism of repentance and Jesus’ baptism as the opening revelation of his identity.</td></tr>
-    <tr><td>Mark 16:15-16</td><td>The longer ending links gospel belief and baptism with salvation, while unbelief brings condemnation.</td></tr>
-    <tr><td>Luke 3:1-22</td><td>Luke ties John’s baptism to repentance and then narrates Jesus’ baptism and anointing by the Spirit.</td></tr>
-    <tr><td>John 1:25-34</td><td>John the Baptist explains his baptizing role and identifies Jesus as the Spirit-anointed Son of God.</td></tr>
-    <tr><td>John 3:22-23</td><td>Jesus’ ministry overlaps with John’s in a scene of active baptizing near abundant water.</td></tr>
-    <tr><td>Acts 2:37-41</td><td>Peter calls repentant hearers to baptism for forgiveness and the gift of the Holy Spirit.</td></tr>
-    <tr><td>Acts 8:12-17</td><td>Samaritans are baptized in Jesus’ name and later receive the Spirit through apostolic laying on of hands.</td></tr>
-    <tr><td>Acts 8:26-39</td><td>The Ethiopian eunuch hears the gospel, believes, and is baptized immediately on the road.</td></tr>
-    <tr><td>Acts 9:17-18</td><td>Saul receives the Spirit, regains his sight, and is baptized as part of his conversion.</td></tr>
-    <tr><td>Acts 10:44-48</td><td>Gentiles receive the Holy Spirit and are then baptized, showing God has welcomed them fully.</td></tr>
-    <tr><td>Acts 16:13-15</td><td>Lydia believes Paul’s message and is baptized along with her household.</td></tr>
-    <tr><td>Acts 16:29-34</td><td>The Philippian jailer believes the gospel and is baptized that very night with his household.</td></tr>
-    <tr><td>Acts 18:8</td><td>Crispus and many Corinthians believe and are baptized in response to Paul’s preaching.</td></tr>
-    <tr><td>Acts 19:1-7</td><td>Paul rebaptizes disciples who knew only John’s baptism and they receive the Holy Spirit.</td></tr>
-    <tr><td>Acts 22:12-16</td><td>Paul retells Ananias’ call to be baptized and wash away sins while calling on Jesus’ name.</td></tr>
-    <tr><td>Romans 6:1-11</td><td>Baptism is described as participation in Christ’s death and resurrection for a new way of life.</td></tr>
-    <tr><td>1 Corinthians 1:10-17</td><td>Paul downplays allegiance to human baptizers so that the cross remains central.</td></tr>
-    <tr><td>1 Corinthians 10:1-4</td><td>Paul portrays Israel’s Red Sea experience as a kind of baptism into Moses.</td></tr>
-    <tr><td>1 Corinthians 12:12-13</td><td>All believers are baptized by one Spirit into one body and share a common life in Christ.</td></tr>
-    <tr><td>Galatians 3:26-29</td><td>Baptism is linked with putting on Christ and belonging equally to Abraham’s family.</td></tr>
-    <tr><td>Ephesians 4:4-6</td><td>One baptism stands alongside one body, one Spirit, and one Lord as a mark of Christian unity.</td></tr>
-    <tr><td>Colossians 2:11-13</td><td>Baptism is tied to burial and resurrection with Christ and to God’s forgiving, life-giving work.</td></tr>
-    <tr><td>Titus 3:4-7</td><td>Paul speaks of salvation through washing, renewal, and the Holy Spirit poured out in grace.</td></tr>
-    <tr><td>Hebrews 10:19-22</td><td>The writer invokes washed bodies and cleansed hearts as believers draw near to God.</td></tr>
-    <tr><td>1 Peter 3:18-22</td><td>Peter connects Noah’s flood pattern to baptism as an appeal to God through Christ’s resurrection.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/mat/3/1/">Matthew 3:1-17</a></td><td>John calls Israel to repentance, Jesus is baptized, and the Father and Spirit publicly mark him out.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/mat/28/18/">Matthew 28:18-20</a></td><td>The risen Jesus commands disciple-making that includes baptism into the triune name.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/mrk/1/4/">Mark 1:4-11</a></td><td>Mark presents John’s baptism of repentance and Jesus’ baptism as the opening revelation of his identity.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/mrk/16/15/">Mark 16:15-16</a></td><td>The longer ending links gospel belief and baptism with salvation, while unbelief brings condemnation.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/luk/3/1/">Luke 3:1-22</a></td><td>Luke ties John’s baptism to repentance and then narrates Jesus’ baptism and anointing by the Spirit.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/jhn/1/25/">John 1:25-34</a></td><td>John the Baptist explains his baptizing role and identifies Jesus as the Spirit-anointed Son of God.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/jhn/3/22/">John 3:22-23</a></td><td>Jesus’ ministry overlaps with John’s in a scene of active baptizing near abundant water.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/2/37/">Acts 2:37-41</a></td><td>Peter calls repentant hearers to baptism for forgiveness and the gift of the Holy Spirit.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/8/12/">Acts 8:12-17</a></td><td>Samaritans are baptized in Jesus’ name and later receive the Spirit through apostolic laying on of hands.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/8/26/">Acts 8:26-39</a></td><td>The Ethiopian eunuch hears the gospel, believes, and is baptized immediately on the road.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/9/17/">Acts 9:17-18</a></td><td>Saul receives the Spirit, regains his sight, and is baptized as part of his conversion.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/10/44/">Acts 10:44-48</a></td><td>Gentiles receive the Holy Spirit and are then baptized, showing God has welcomed them fully.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/16/13/">Acts 16:13-15</a></td><td>Lydia believes Paul’s message and is baptized along with her household.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/16/29/">Acts 16:29-34</a></td><td>The Philippian jailer believes the gospel and is baptized that very night with his household.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/18/8/">Acts 18:8</a></td><td>Crispus and many Corinthians believe and are baptized in response to Paul’s preaching.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/19/1/">Acts 19:1-7</a></td><td>Paul rebaptizes disciples who knew only John’s baptism and they receive the Holy Spirit.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/22/12/">Acts 22:12-16</a></td><td>Paul retells Ananias’ call to be baptized and wash away sins while calling on Jesus’ name.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/rom/6/1/">Romans 6:1-11</a></td><td>Baptism is described as participation in Christ’s death and resurrection for a new way of life.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/1co/1/10/">1 Corinthians 1:10-17</a></td><td>Paul downplays allegiance to human baptizers so that the cross remains central.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/1co/10/1/">1 Corinthians 10:1-4</a></td><td>Paul portrays Israel’s Red Sea experience as a kind of baptism into Moses.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/1co/12/12/">1 Corinthians 12:12-13</a></td><td>All believers are baptized by one Spirit into one body and share a common life in Christ.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/gal/3/26/">Galatians 3:26-29</a></td><td>Baptism is linked with putting on Christ and belonging equally to Abraham’s family.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/eph/4/4/">Ephesians 4:4-6</a></td><td>One baptism stands alongside one body, one Spirit, and one Lord as a mark of Christian unity.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/col/2/11/">Colossians 2:11-13</a></td><td>Baptism is tied to burial and resurrection with Christ and to God’s forgiving, life-giving work.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/tit/3/4/">Titus 3:4-7</a></td><td>Paul speaks of salvation through washing, renewal, and the Holy Spirit poured out in grace.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/heb/10/19/">Hebrews 10:19-22</a></td><td>The writer invokes washed bodies and cleansed hearts as believers draw near to God.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/1pe/3/18/">1 Peter 3:18-22</a></td><td>Peter connects Noah’s flood pattern to baptism as an appeal to God through Christ’s resurrection.</td></tr>
   </tbody>
 </table>
 
@@ -150,20 +150,20 @@ These are the major New Testament passages for tracing John’s baptism, Jesus�
     </tr>
   </thead>
   <tbody>
-    <tr><td>Matthew 26:26-29</td><td>Jesus identifies the bread and cup with his body and blood and frames the meal in kingdom hope.</td></tr>
-    <tr><td>Mark 14:22-25</td><td>Mark emphasizes the covenantal meaning of the meal and Jesus’ vow not to drink again until the kingdom.</td></tr>
-    <tr><td>Luke 22:14-20</td><td>Luke ties the Supper to Passover, remembrance, and the new covenant in Jesus’ blood.</td></tr>
-    <tr><td>John 6:26-58</td><td>Jesus’ bread-of-life discourse uses eating and drinking language to stress life through abiding in him.</td></tr>
-    <tr><td>Acts 2:42</td><td>The earliest church devotes itself to apostolic teaching, fellowship, breaking bread, and prayer.</td></tr>
-    <tr><td>Acts 2:46</td><td>Believers share meals with joy and simplicity, showing the communal setting of early table fellowship.</td></tr>
-    <tr><td>Acts 20:7-11</td><td>The church gathers on the first day of the week to break bread in a distinctly Christian assembly.</td></tr>
-    <tr><td>1 Corinthians 10:14-22</td><td>Paul says the cup and bread are a participation in Christ and incompatible with idolatrous meals.</td></tr>
-    <tr><td>1 Corinthians 11:17-34</td><td>Paul corrects abuses at the Lord’s Supper and calls for discernment, unity, and self-examination.</td></tr>
-    <tr><td>Hebrews 9:11-15</td><td>Christ’s sacrificial blood grounds the new covenant that the Supper proclaims and remembers.</td></tr>
-    <tr><td>Hebrews 10:19-25</td><td>Because Jesus opened the way into God’s presence, believers gather in confidence and mutual encouragement.</td></tr>
-    <tr><td>Hebrews 13:9-16</td><td>Christian worship is centered on Christ’s once-for-all offering and a life of praise and shared sacrifice.</td></tr>
-    <tr><td>Revelation 3:20</td><td>Jesus’ promise of table fellowship portrays restored communion with his people.</td></tr>
-    <tr><td>Revelation 19:6-9</td><td>The marriage supper of the Lamb provides the Supper’s ultimate forward-looking horizon.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/mat/26/26/">Matthew 26:26-29</a></td><td>Jesus identifies the bread and cup with his body and blood and frames the meal in kingdom hope.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/mrk/14/22/">Mark 14:22-25</a></td><td>Mark emphasizes the covenantal meaning of the meal and Jesus’ vow not to drink again until the kingdom.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/luk/22/14/">Luke 22:14-20</a></td><td>Luke ties the Supper to Passover, remembrance, and the new covenant in Jesus’ blood.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/jhn/6/26/">John 6:26-58</a></td><td>Jesus’ bread-of-life discourse uses eating and drinking language to stress life through abiding in him.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/2/42/">Acts 2:42</a></td><td>The earliest church devotes itself to apostolic teaching, fellowship, breaking bread, and prayer.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/2/46/">Acts 2:46</a></td><td>Believers share meals with joy and simplicity, showing the communal setting of early table fellowship.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/act/20/7/">Acts 20:7-11</a></td><td>The church gathers on the first day of the week to break bread in a distinctly Christian assembly.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/1co/10/14/">1 Corinthians 10:14-22</a></td><td>Paul says the cup and bread are a participation in Christ and incompatible with idolatrous meals.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/1co/11/17/">1 Corinthians 11:17-34</a></td><td>Paul corrects abuses at the Lord’s Supper and calls for discernment, unity, and self-examination.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/heb/9/11/">Hebrews 9:11-15</a></td><td>Christ’s sacrificial blood grounds the new covenant that the Supper proclaims and remembers.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/heb/10/19/">Hebrews 10:19-25</a></td><td>Because Jesus opened the way into God’s presence, believers gather in confidence and mutual encouragement.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/heb/13/9/">Hebrews 13:9-16</a></td><td>Christian worship is centered on Christ’s once-for-all offering and a life of praise and shared sacrifice.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/rev/3/20/">Revelation 3:20</a></td><td>Jesus’ promise of table fellowship portrays restored communion with his people.</td></tr>
+    <tr><td><a href="https://www.blueletterbible.org/verse/nasb20/rev/19/6/">Revelation 19:6-9</a></td><td>The marriage supper of the Lamb provides the Supper’s ultimate forward-looking horizon.</td></tr>
   </tbody>
 </table>
 
