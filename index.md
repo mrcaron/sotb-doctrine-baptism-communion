@@ -200,7 +200,7 @@ This article explores *koinonia* as shared participation in the life of God and 
 
 ## BibleProject Episodes and Transcripts
 
-### The Exodus Way (Series Guide)  
+### 📄 The Exodus Way (Series Guide)  
 **BibleProject.** *The Exodus Way*.  
 **Link:** [Series guide](https://bibleproject.com/guides/the-exodus-way/)
 
@@ -208,7 +208,7 @@ This guide introduces the Exodus pattern as a recurring script in the Bible: sla
 
 ---
 
-### N.T. Wright Interview: Baptism and the Exodus Story  
+### 🎧 N.T. Wright Interview: Baptism and the Exodus Story  
 **BibleProject Podcast.** *The Exodus Way*, Episode 12. April 28, 2025.  
 **Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/nt-wright-interview-baptism-and-exodus-story/)  
 **Transcript PDF:** [Download transcript](https://d1bsmz3sdihplr.cloudfront.net/media/The%20Exodus%20Way%20E12_Final%20%20Transcript.pdf)
@@ -217,7 +217,7 @@ This episode is directly about baptism, and that makes it something of a rare be
 
 ---
 
-### Why Does Jesus Get Baptized in the Wilderness?  
+### 🎧 Why Does Jesus Get Baptized in the Wilderness?  
 **BibleProject Podcast.** *The Wilderness*, Episode 8. October 2025.  
 **Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/why-does-jesus-get-baptized-in-the-wilderness/)  
 **Transcript PDF:** [Download transcript](https://s3-us-west-2.amazonaws.com/tbp-web/media/The%20Wilderness%20E8%20Final%20Transcript.pdf)
@@ -226,7 +226,7 @@ This episode explores Jesus’ baptism and wilderness testing as part of a large
 
 ---
 
-### Jesus as the New Moses—and Much More  
+### 🎧 Jesus as the New Moses—and Much More  
 **BibleProject Podcast.** *The Exodus Way*, Episode 8. March 31, 2025.  
 **Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/jesus-new-mosesand-much-more/)
 
@@ -234,7 +234,7 @@ This episode tracks Exodus echoes in the Gospel portraits of Jesus—his birth, 
 
 ---
 
-### Chaotic Waters and Baptism  
+### 🎧 Chaotic Waters and Baptism  
 **BibleProject Podcast.** *How To Read the Bible*, Episode 16. April 23, 2018.  
 **Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/design-patterns-bible-part-4-chaotic-waters-baptism/)
 
@@ -242,7 +242,7 @@ This episode follows the Bible’s recurring “salvation through water” patte
 
 ---
 
-### Jesus’ Anointing Ceremony  
+### 🎧 Jesus’ Anointing Ceremony  
 **BibleProject Podcast.** *The Anointed*, Episode 6. April 17, 2023.  
 **Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/jesus-anointing-ceremony/)
 
@@ -252,7 +252,7 @@ This episode connects Jesus’ baptism with anointing, messiahship, the Spirit, 
 
 ## Books
 
-### Baptism: Three Views  
+### 📖 Baptism: Three Views  
 
 **Wright, David F., ed.** *Baptism: Three Views*. IVP Academic, 2009.  
 **Buy / preview:** [Amazon](https://a.co/d/03mAXQ1X)  
@@ -262,7 +262,7 @@ This volume places three major Christian understandings of baptism in direct con
 
 ---
 
-### Transforming Encounters: Baptism, Assembly, and the Lord’s Supper  
+### 📖 Transforming Encounters: Baptism, Assembly, and the Lord’s Supper  
 
 **Hicks, John Mark.** *Transforming Encounters: Baptism, Assembly, and the Lord’s Supper*. Regnum Media / Center for Christian Studies, 2023.  
 **Buy / preview:** [Amazon](https://a.co/d/057s69IQ)  
@@ -272,7 +272,7 @@ Hicks argues that baptism, the gathered assembly, and the Lord’s Supper are no
 
 ---
 
-### Early Christian Doctrines  
+### 📖 Early Christian Doctrines  
 
 **Kelly, J. N. D.** *Early Christian Doctrines*. 5th rev. ed. HarperOne, 1978.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1206742.Early_Christian_Doctrines)
@@ -281,7 +281,7 @@ Kelly remains one of the standard guides to doctrinal development in the early c
 
 ---
 
-### Worship in the Early Church  
+### 📖 Worship in the Early Church  
 
 **Gonzalez, Justo L., and Catherine Gunsalus Gonzalez.** *Worship in the Early Church*. Westminster John Knox Press, 2022.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
@@ -290,7 +290,7 @@ Gonzalez traces how preaching, baptism, and Eucharist developed across the first
 
 ---
 
-### The Eucharist: Sacrament of the Kingdom  
+### 📖 The Eucharist: Sacrament of the Kingdom  
 
 **Schmemann, Alexander.** *The Eucharist: Sacrament of the Kingdom*. St Vladimir’s Seminary Press, 1987.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/623583.The_Eucharist)
@@ -299,7 +299,7 @@ Schmemann presents the Eucharist not as a fussy mechanism to be dissected but as
 
 ---
 
-### The Mystery of Christ: Life in Death  
+### 📖 The Mystery of Christ: Life in Death  
 
 **Behr, John.** *The Mystery of Christ: Life in Death*. St Vladimir’s Seminary Press, 2006.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1496390.The_Mystery_of_Christ)
@@ -308,7 +308,7 @@ Behr reads the mystery of Christ through crucifixion, resurrection, Scripture, a
 
 ---
 
-### Lord Jesus Christ: Devotion to Jesus in Earliest Christianity  
+### 📖 Lord Jesus Christ: Devotion to Jesus in Earliest Christianity  
 
 **Hurtado, Larry W.** *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity*. Eerdmans, 2003.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/1162335.Lord_Jesus_Christ)
@@ -317,7 +317,7 @@ Hurtado studies how remarkably early Christians included Jesus in patterns of wo
 
 ---
 
-### Strange Religion  
+### 📖 Strange Religion  
 
 **Gupta, Nijay K.** *Strange Religion: How the First Christians Were Weird, Dangerous, and Compelling*. Brazos Press, 2024.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/182093393-strange-religion)
@@ -326,7 +326,7 @@ Gupta introduces early Christianity in its Roman setting by showing how strange 
 
 ---
 
-### The New Testament and the People of God  
+### 📖 The New Testament and the People of God  
 
 **Wright, N. T.** *The New Testament and the People of God*. Fortress Press, 1992.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/410758.The_New_Testament_and_the_People_of_God)
@@ -335,7 +335,7 @@ This first volume in Wright’s major series maps the worldview of Second Temple
 
 ---
 
-### Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals  
+### 📖 Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals  
 
 **McGowan, Andrew.** *Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals*. Oxford University Press, 1999.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/308029.Ascetic_Eucharists)
@@ -344,7 +344,7 @@ McGowan examines how early Christian communal meals functioned before later Euch
 
 ---
 
-### It Takes a Church to Baptize  
+### 📖 It Takes a Church to Baptize  
 
 **McKnight, Scot.** *It Takes a Church to Baptize: What the Bible Says about Infant Baptism*. Brazos Press, 2018.  
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/36755881-it-takes-a-church-to-baptize)
