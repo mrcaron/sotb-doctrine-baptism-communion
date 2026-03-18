@@ -296,6 +296,22 @@ This episode connects Jesus’ baptism with anointing, messiahship, the Spirit, 
 
 ---
 
+### 🎧 The Messianic Passover  
+**BibleProject Podcast.** Episode 6. March 19, 2018.  
+**Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/messianic-passover/)
+
+This episode explores the Last Supper as a Passover meal and walks through how Jesus reinterprets the bread and cup in light of his coming death. It is especially useful for readers studying communion because it ties the Lord’s Supper directly to Passover symbolism, covenant themes, and the Exodus story.
+
+---
+
+### 🎧 Atonement  
+**BibleProject Podcast.** *The Language of Faith*, Episode 4. October 19, 2017.  
+**Episode:** [Listen / read episode page](https://bibleproject.com/podcasts/language-faith-part-4-atonement/)
+
+This episode explores the biblical concept of atonement by tracing sacrifice, purification, and restored communion with God through the larger story of Scripture. It is especially useful for this guide because it gives theological background for understanding how the death of Jesus relates to covenant, forgiveness, temple imagery, and the meal of the new covenant.
+
+---
+
 ## Books
 
 ### 📖 Baptism: Three Views  
@@ -333,6 +349,15 @@ Kelly remains one of the standard guides to doctrinal development in the early c
 **Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/61240479-worship-in-the-early-church)
 
 Gonzalez traces how preaching, baptism, and Eucharist developed across the first five centuries of Christian history. It is especially relevant here because it connects sacramental practice to the church's formation, catechesis, and worshiping life in the patristic period.
+
+---
+
+### 📖 A Brief History of Sunday  
+
+**Gonzalez, Justo L.** *A Brief History of Sunday: From the New Testament to the New Creation*. Eerdmans, 2017.  
+**Goodreads:** [View on Goodreads](https://www.goodreads.com/book/show/32503183-a-brief-history-of-sunday)
+
+Gonzalez traces how Sunday worship developed from the earliest church through Constantine, the medieval period, Reformation debates, and into the present. It is especially relevant here because it helps readers connect Christian gathering, Eucharistic practice, resurrection theology, and the long historical development of the Lord’s Day.
 
 ---
 
