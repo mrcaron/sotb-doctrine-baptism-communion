@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Historical Gantt View</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./gantt.css" />
+</head>
+<body>
+  <main class="gantt-shell">
+    <section class="hero">
+      <p class="eyebrow">Separate SPA</p>
+      <h1>Historical Events as a Gantt Chart</h1>
+      <p class="intro">
+        This view treats each event as a bar on a layered historical schedule instead of a bubble on a line.
+        Click a bar to reveal its art panel. If the bar is wide enough, the title and date stay visible directly inside the bar.
+      </p>
+    </section>
+
+    <section class="chart-panel">
+      <div class="panel-head">
+        <div>
+          <p class="panel-kicker">Gantt Layout</p>
+          <h2>Layered event instances</h2>
+        </div>
+        <p class="panel-note">Click bars to toggle detail panels. Hover an open panel image to enlarge it.</p>
+      </div>
+
+      <div class="gantt-scroll" id="gantt-scroll">
+        <div class="gantt-stage" id="gantt-stage"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="./gantt.js"></script>
+</body>
+</html>
